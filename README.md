@@ -17,6 +17,7 @@ touch .env
 Fill your API KEY / UNIQUE TOKENS (.env.example):
 ```bash
 MAPBOX_TOKEN=<YOUR_TOKEN_GOES_HERE>
+MAPTILER_TOKEN=<YOUR_TOKEN_GOES_HERE>
 ```
 
 First, install all dependencies:
