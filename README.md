@@ -19,7 +19,14 @@ Fill your API KEY / UNIQUE TOKENS (.env.example):
 MAPBOX_TOKEN=<YOUR_TOKEN_GOES_HERE>
 ```
 
-First, run the development server:
+First, install all dependencies:
+
+```bash
+yarn
+```
+
+
+Second run the development server:
 
 ```bash
 yarn dev
